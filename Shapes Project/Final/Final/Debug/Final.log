@@ -1,0 +1,7 @@
+﻿  shapes.cpp
+  shapesProject.cpp
+c:\users\newga\desktop\final\final\shapesproject.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\newga\desktop\final\final\shapesproject.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\newga\desktop\final\final\shapesproject.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Final.vcxproj -> C:\Users\NewGa\Desktop\Final\Debug\Final.exe
